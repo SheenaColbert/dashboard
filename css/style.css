@@ -6,16 +6,16 @@
   --common-font: 'Roboto', sans-serif;
   --common-font-size: 1.2rem;
 
-  --sidebar-bg-color: #b0413e;
+  --sidebar-bg-color: #77c0e5;
   --sidebar-nav-color: #fff;
   --nav-btn-color: var(--sidebar-bg-color);
 
-  --main-bg-color: #fcaa67;
+  --main-bg-color: #5dd986;
   --main-font-color: #fff;
 
   --search-bg-color: var(--main-bg-color);
   /* font color for projects, header and trend/annon boxes */
-  --accent-bg-color: #548687;
+  --accent-bg-color: #ceb6cf;
   --accent-font-color: #ffffff;
 
   --annon-line-color: #ffffc7;
